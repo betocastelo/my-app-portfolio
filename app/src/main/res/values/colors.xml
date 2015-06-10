@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="hot_orange" type="color">#F08C35</item>
+    <item name="deep_sky" type="color">#769DFF</item>
+    <item name="capstone_red" type="color">#DD2C00</item>
+
+</resources>

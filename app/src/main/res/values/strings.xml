@@ -12,5 +12,5 @@
     <string name="xyz_reader">XYZ Reader</string>
     <string name="capstone_project">Capstone Project</string>
 
-    <string name="starting_app_message">Starting app:</string>
+    <string name="starting_app_message">Starting the app </string>
 </resources>
